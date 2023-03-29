@@ -1,3 +1,7 @@
+
+
+
+q1)
 function fib(n) {
     if (n < 2) {
         return n;
@@ -8,10 +12,12 @@ function fib(n) {
 }
 fib(9)
 console.log(fib(9))
+
 out = 34
 
 
 
+q2)
 
 let sum = 0
 let arr = [1, 2, 3, 4, 5]
@@ -27,6 +33,7 @@ console.log(sum)
 out = 15
 
 
+q3)
 
 function reversestring(str){
     if(str==""){
